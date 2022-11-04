@@ -1,6 +1,13 @@
-# atc_chat_3ver
+# Flutter-chat-app
 
-A new Flutter project.
+ビデオ電話
+ユーザ検索
+ファイル送信
+グループチャット
+プライベートチャット
+プッシュ通知
+アバター設定
+etc.
 
 ## Getting Started
 
